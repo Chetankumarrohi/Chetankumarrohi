@@ -6,29 +6,31 @@
 -->
 
 <div align="center">
-  <!-- Futuristic Technology Background Banner -->
-  <img src="https://static.vecteezy.com/system/resources/previews/072/503/077/large_2x/digital-circuitry-and-glowing-particles-abstract-futuristic-technology-background-photo.jpg" width="100%" height="220" style="object-fit: cover; border-radius: 12px;" alt="Digital Circuitry & Glowing Particles Banner" />
-
-  <br/><br/>
+  <!-- Custom Cyberpunk Neural Network Banner -->
+  <img src="./assets/banner.jpg" width="100%" alt="AI & Neural Network Cyberpunk Banner" />
 
   <!-- Capsule Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,25&height=200&section=header&text=Chetan%20Kumar%20Rohilla&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:0d1117&height=1&section=header" width="100%" />
+
+  <br/>
 
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Chetan+👋;AI+%26+Machine+Learning+Engineer+🧠;Data+Science+%26+Predictive+Modeling+📊;Building+Intelligent+Systems+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Chetan+Kumar+Rohilla+%E2%9A%A1;AI+Engineer+%7C+ML+Architect+%7C+Data+Alchemist+%F0%9F%A7%AA" alt="Typing SVG" />
   </a>
 
-  <br />
+  <br/>
 
-  <!-- Profile Views Counter & Badges -->
-  <p align="center">
+  <!-- Gen Z Badge Row -->
+  <p>
     <img src="https://komarev.com/ghpvc/?username=Chetankumarrohi&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    &nbsp;
     <a href="https://www.linkedin.com/in/chetankumarrohilla" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:chetankumarrohilla@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
