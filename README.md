@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- Capsule Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,25&height=220&section=header&text=Chetan%20Kumar%20Rohilla&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,25&height=220&section=header&text=Chetan%20Kumar%20Rohilla&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
@@ -19,7 +19,7 @@
   <!-- Profile Views Counter & Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Chetankumarrohi&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    <a href="https://linkedin.com/in/">
+    <a href="https://www.linkedin.com/in/chetankumarrohilla" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:chetankumarrohilla@gmail.com">
@@ -28,7 +28,7 @@
   </p>
 </div>
 
-<hr />
+---
 
 ## 💫 About Me
 
@@ -73,14 +73,14 @@ developer:
   
   <h3>AI, Machine Learning & Data Science</h3>
   <p>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   </p>
 </div>
 
@@ -89,7 +89,7 @@ developer:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chetankumarrohi&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Chetankumarrohi&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
 </div>
 
 ---
@@ -100,17 +100,19 @@ developer:
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Chetankumarrohi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-eight.vercel.app/api?username=Chetankumarrohi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetankumarrohi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Chetankumarrohi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetankumarrohi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chetankumarrohi&theme=2077" alt="Profile Details" width="95%" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chetankumarrohi&theme=2077" alt="Productive Time Activity" width="95%" />
 </div>
 
 ---
@@ -123,28 +125,28 @@ developer:
       <h3 align="center">💳 Creditworthiness Prediction</h3>
       <p align="center">
         <a href="https://github.com/Chetankumarrohi/CodeAlpha_Creditworthiness_Project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetankumarrohi&repo=CodeAlpha_Creditworthiness_Project&theme=tokyonight&hide_border=true" width="100%" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chetankumarrohi&repo=CodeAlpha_Creditworthiness_Project&theme=tokyonight&hide_border=true" width="100%" alt="Creditworthiness Project Pin" />
         </a>
       </p>
       <p>AI-powered Creditworthiness Prediction System built with Machine Learning algorithms and an interactive Streamlit UI for financial risk evaluation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" alt="ML" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎙️ Speech Emotion Recognition</h3>
       <p align="center">
         <a href="https://github.com/Chetankumarrohi/CodeAlpha_Speech_Emotion_Recognition">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetankumarrohi&repo=CodeAlpha_Speech_Emotion_Recognition&theme=tokyonight&hide_border=true" width="100%" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chetankumarrohi&repo=CodeAlpha_Speech_Emotion_Recognition&theme=tokyonight&hide_border=true" width="100%" alt="Speech Emotion Project Pin" />
         </a>
       </p>
       <p>Deep Learning model for processing audio signals and classifying human emotional states from speech features (MFCCs, spectral features).</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Audio%20Processing-00f2fe?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="DL" />
+        <img src="https://img.shields.io/badge/Audio%20Processing-00f2fe?style=flat-square" alt="Audio" />
       </p>
     </td>
   </tr>
