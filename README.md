@@ -6,8 +6,13 @@
 -->
 
 <div align="center">
+  <!-- Futuristic Technology Background Banner -->
+  <img src="https://static.vecteezy.com/system/resources/previews/072/503/077/large_2x/digital-circuitry-and-glowing-particles-abstract-futuristic-technology-background-photo.jpg" width="100%" height="220" style="object-fit: cover; border-radius: 12px;" alt="Digital Circuitry & Glowing Particles Banner" />
+
+  <br/><br/>
+
   <!-- Capsule Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,25&height=220&section=header&text=Chetan%20Kumar%20Rohilla&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,25&height=200&section=header&text=Chetan%20Kumar%20Rohilla&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
@@ -97,22 +102,24 @@ developer:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chetankumarrohi&theme=tokyonight" alt="Profile Details" width="98%" />
+
+  <br/><br/>
+
+  <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight.vercel.app/api?username=Chetankumarrohi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chetankumarrohi&theme=tokyonight" alt="GitHub Stats Summary" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Chetankumarrohi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chetankumarrohi&theme=tokyonight" alt="Repos Per Language" width="100%" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chetankumarrohi&theme=2077" alt="Profile Details" width="95%" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chetankumarrohi&theme=2077" alt="Productive Time Activity" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chetankumarrohi&theme=tokyonight" alt="Productive Time Activity" width="98%" />
 </div>
 
 ---
@@ -121,29 +128,31 @@ developer:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💳 Creditworthiness Prediction</h3>
-      <p align="center">
-        <a href="https://github.com/Chetankumarrohi/CodeAlpha_Creditworthiness_Project">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chetankumarrohi&repo=CodeAlpha_Creditworthiness_Project&theme=tokyonight&hide_border=true" width="100%" alt="Creditworthiness Project Pin" />
+    <td width="50%" valign="top" align="center">
+      <h3>💳 Creditworthiness Prediction</h3>
+      <p>
+        <a href="https://github.com/Chetankumarrohi/CodeAlpha_Creditworthiness_Project" target="_blank">
+          <img src="https://img.shields.io/github/stars/Chetankumarrohi/CodeAlpha_Creditworthiness_Project?style=for-the-badge&logo=github&color=00f2fe" alt="Stars" />
+          <img src="https://img.shields.io/github/forks/Chetankumarrohi/CodeAlpha_Creditworthiness_Project?style=for-the-badge&logo=github&color=7aa2f7" alt="Forks" />
         </a>
       </p>
-      <p>AI-powered Creditworthiness Prediction System built with Machine Learning algorithms and an interactive Streamlit UI for financial risk evaluation.</p>
-      <p>
+      <p align="left">AI-powered Creditworthiness Prediction System built with Machine Learning algorithms and an interactive Streamlit UI for financial risk evaluation.</p>
+      <p align="left">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" alt="ML" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎙️ Speech Emotion Recognition</h3>
-      <p align="center">
-        <a href="https://github.com/Chetankumarrohi/CodeAlpha_Speech_Emotion_Recognition">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chetankumarrohi&repo=CodeAlpha_Speech_Emotion_Recognition&theme=tokyonight&hide_border=true" width="100%" alt="Speech Emotion Project Pin" />
+    <td width="50%" valign="top" align="center">
+      <h3>🎙️ Speech Emotion Recognition</h3>
+      <p>
+        <a href="https://github.com/Chetankumarrohi/CodeAlpha_Speech_Emotion_Recognition" target="_blank">
+          <img src="https://img.shields.io/github/stars/Chetankumarrohi/CodeAlpha_Speech_Emotion_Recognition?style=for-the-badge&logo=github&color=00f2fe" alt="Stars" />
+          <img src="https://img.shields.io/github/forks/Chetankumarrohi/CodeAlpha_Speech_Emotion_Recognition?style=for-the-badge&logo=github&color=7aa2f7" alt="Forks" />
         </a>
       </p>
-      <p>Deep Learning model for processing audio signals and classifying human emotional states from speech features (MFCCs, spectral features).</p>
-      <p>
+      <p align="left">Deep Learning model for processing audio signals and classifying human emotional states from speech features (MFCCs, spectral features).</p>
+      <p align="left">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="DL" />
         <img src="https://img.shields.io/badge/Audio%20Processing-00f2fe?style=flat-square" alt="Audio" />
